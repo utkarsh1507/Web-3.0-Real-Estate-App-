@@ -1,4 +1,4 @@
-# NFT-Based Real Estate Marketplace
+# NFT-Based Real Estate Marketplace 
 
 ## Overview
 This is a **full-stack Web3 application** that enables users to **buy and sell real estate properties as NFTs** on the Ethereum blockchain. The project ensures secure and transparent transactions using smart contracts.
